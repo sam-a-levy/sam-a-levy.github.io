@@ -51,6 +51,15 @@ Skills
   * English (native)
   * Portuguese (advanced) 
 
+Awards
+======
+* 2022 **Postdoctoral Travel Grant**, New York University, USA (USD 700)
+* 2021 **International Geneva Award**, Swiss Network for International Studies, Switzerland (CHF 5,000)
+* 2020 **Global Young Scientists Summit delegate**, National Research Foundation, Singapore
+* 2016 **Environmental Change Insitute Research Award**, University of Oxford, UK
+* 2016 **Oriel College Travel Award**, University of Oxford, UK
+* 2014 **Ernest and Carmen Frankl Memorial Award**, University of Cambridge , UK
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -69,6 +78,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Media Appearances
 ======
-* Currently signed in to 43 different slack teams
+* 2022 **Mongabay** [Pay or punish? Study looks at how to engage with farmers deforesting the Cerrdao](https://news.mongabay.com/2022/02/pay-or-punish-study-looks-at-how-to-engage-with-farmers-deforesting-the-cerrado/)
+* 2021 **Swissinfo** [Why is the Amazon still at risk despite ‘zero deforestation’ commitments?](https://www.swissinfo.ch/eng/why-is-the-amazon-still-at-risk-despite--zero-deforestation--commitments-/46314800)
+ 
