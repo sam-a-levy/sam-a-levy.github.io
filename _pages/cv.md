@@ -19,7 +19,7 @@ Education
 
 Institutional Appointments
 ======
-* 2022-current: Postdoctoral Researcher, New York University
+* 2022-current: **New York University** - Postdoctoral Researcher
   * Advisor: Prof. Kimberly Carlson
 
 Professional Experience
@@ -32,12 +32,24 @@ Professional Experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quantiative research methods
+  * Panel regressions
+  * Difference-in-Differences
+  * Network analysis
+* Qualtiative & field methods
+  * Process-tracing
+  * Household survey execution
+  * Semi-structured interviews
+* Statistical computing, Programming & Geospatial analysis
+  * R studio (advanced)
+  * Python (intermediate)
+  * ArcGIS (advanced)
+  * QGIS (advanced)
+  * Google Earth Engine (intermediate)
+  * Open Data Kit (advanced)
+* Languages
+  * English (native)
+  * Portuguese (advanced) 
 
 Publications
 ======
