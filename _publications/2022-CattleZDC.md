@@ -3,7 +3,7 @@ title: "Effectiveness-equity tradeoffs in enforcing exclusionary supply chain po
 collection: publications
 permalink: /publication/2022-CattleZDC
 Authors: 'Cammelli, F., **S. A. Levy**, J. Grabs, J. Valentim & R.D. Garrett'
-date: 2022-04-01
+date: 2022-01-15
 venue: 'Journal of Cleaner Production'
 paperurl: 'https://doi.org/10.1016/j.jclepro.2021.130031'
 ---
