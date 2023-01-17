@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Click here for a PDF version of my CV](https://sam-a-levy.github.io/files/1_Levy_CV_2023-01-17.pdf)
+
 {% include base_path %}
 
 Education
