@@ -1,7 +1,7 @@
 ---
 title: "Designing effective and equitable zero-deforestation supply chain policies"
 collection: publications
-permalink: /publication/2011-EffectEquity
+permalink: /publication/2022-EffectEquity
 Authors: 'Grabs, J., F. Cammelli, **S.A. Levy** & R. D. Garrett'
 date: 2022-12-01
 venue: 'Global Environmental Change'
