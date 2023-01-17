@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Development Economics, ETH Zürich, 2022
+  * Advisor: Prof. Rachael Garrett
+* PhD student in Earth & Environment, Boston University (transferred to ETH Zürich)
+* MSc in Environmental Change & Management, University of Oxford, 2016
+* BA in Social Anthropology, University of Cambridge, 2014
 
-Work experience
+Institutional Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-current: Postdoctoral Researcher, New York University
+  * Advisor: Prof. Kimberly Carlson
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Professional Experience
+======
+* 2017: **Global Canopy** - Research Intern (Supply Chains)
+* 2016-2017: **Proforest** - Environmental Consultant
+* 2016 **University of Oxford** - Research Assistant
+* 2013-2017 **Forestry Commission** - Project Manager, Forest health survey
+* 2009-2014 **Coombe Forestry Ltd.** - Sustainable Forester
   
 Skills
 ======
