@@ -38,7 +38,7 @@ Skills
   * Panel regressions
   * Difference-in-Differences
   * Network analysis
-* Qualtiative & field methods
+* Qualitative & field methods
   * Process-tracing
   * Household survey execution
   * Semi-structured interviews
@@ -58,7 +58,7 @@ Awards
 * 2022 **Postdoctoral Travel Grant**, New York University, USA (USD 700)
 * 2021 **International Geneva Award**, Swiss Network for International Studies, Switzerland (CHF 5,000)
 * 2020 **Global Young Scientists Summit delegate**, National Research Foundation, Singapore
-* 2016 **Environmental Change Insitute Research Award**, University of Oxford, UK
+* 2016 **Environmental Change Institute Research Award**, University of Oxford, UK
 * 2016 **Oriel College Travel Award**, University of Oxford, UK
 * 2014 **Ernest and Carmen Frankl Memorial Award**, University of Cambridge , UK
 
