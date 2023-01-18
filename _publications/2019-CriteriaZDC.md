@@ -2,7 +2,7 @@
 title: "Criteria for Effective Zero-Deforestation Commitments"
 collection: publications
 permalink: /publication/2019-CriteriaZDC
-Authors: 'Garrett, R.D., **Levy, S.**, Carlson, K.M., Gardner, T.A., Godar, J., Clapp, J., Dauvergne, P., Heilmayr, R., le Polain de Waroux, Y., Ayre, B., Barr, R., Døvre, B., Gibbs, H.K., Hall, S., Lake, S., Milder, J.C., Rausch, L.L., Rivero, R., Rueda, X., Sarsfield, R., Soares-Filho, B., Villoria, N.'
+Authors: 'Garrett, R.D., <b>Levy, S.</b>, Carlson, K.M., Gardner, T.A., Godar, J., Clapp, J., Dauvergne, P., Heilmayr, R., le Polain de Waroux, Y., Ayre, B., Barr, R., Døvre, B., Gibbs, H.K., Hall, S., Lake, S., Milder, J.C., Rausch, L.L., Rivero, R., Rueda, X., Sarsfield, R., Soares-Filho, B., Villoria, N.'
 date: 2019-12-01
 venue: 'Global Environmental Change'
 paperurl: 'https://doi.org/10.1146/annurev-environ-012220-010228'
