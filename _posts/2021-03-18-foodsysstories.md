@@ -1,7 +1,7 @@
 ---
 title: 'Tracing food supply chains in challenging times (and places)'
 date: 2021-03-18
-permalink: /posts/2012/08/2021-03-foodsysstories/
+permalink: /posts/2021/03/foodsysstories/
 tags:
   - Fieldwork
   - deforestation
