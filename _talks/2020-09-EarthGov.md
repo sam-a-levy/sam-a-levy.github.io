@@ -3,7 +3,7 @@ title: "Livelihood outcomes in smallholder schemes in Indonesian palm oil: An ex
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2020-09-EarthGov
-venue: ""
+venue: "Earth System Governance Conference"
 date: 2020-09-14
 location: "Bratislava, Slovakia"
 ---
