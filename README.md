@@ -1,4 +1,4 @@
-#Github repository for my personal website
+Github repository for my personal website
 
 available at [sam-a-levy.github.io](http://sam-a-levy.github.io/)
 
