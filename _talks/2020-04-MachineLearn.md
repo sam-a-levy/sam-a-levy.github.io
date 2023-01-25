@@ -3,7 +3,7 @@ title: "How machine learning can help prevent commodity-driven deforestation"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2020-04-MachineLearn
-venue: "Stockholm Environment Institute - Trase Research Dialogue no.6"
+venue: "International Conference on Learning Representations"
 date: 2020-04-28
 location: "Zürich, Switzerland"
 ---
