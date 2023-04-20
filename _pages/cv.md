@@ -88,4 +88,4 @@ Skills
   * English (native)
   * Portuguese (advanced)
 * Photography
-  * My photographs have been used in several publications including in several Mongabay articles (incl. [here](https://news.mongabay.com/2022/02/pay-or-punish-study-looks-at-how-to-engage-with-farmers-deforesting-the-cerrado/) and [here](https://news.mongabay.com/2022/11/to-be-effective-zero-deforestation-pledges-need-a-critical-mass-study-shows/)) and [Swissinfo](https://www.swissinfo.ch/eng/why-is-the-amazon-still-at-risk-despite--zero-deforestation--commitments-/46314800)   
+  * My photographs have been used in numerous news publications, including several Mongabay articles (e.g. in [Feb 2022](https://news.mongabay.com/2022/02/pay-or-punish-study-looks-at-how-to-engage-with-farmers-deforesting-the-cerrado/) and [November 2022](https://news.mongabay.com/2022/11/to-be-effective-zero-deforestation-pledges-need-a-critical-mass-study-shows/)) and [Swissinfo](https://www.swissinfo.ch/eng/why-is-the-amazon-still-at-risk-despite--zero-deforestation--commitments-/46314800)   
