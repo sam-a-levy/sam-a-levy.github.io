@@ -1,5 +1,5 @@
 ---
-title: "Forests and sustainable devleopment in the Brazilian Amazon: History, trends and future prospects"
+title: "Forests and sustainable development in the Brazilian Amazon: History, trends and future prospects"
 collection: publications
 permalink: /publication/2021-BrReview
 Authors: Garrett, R. D., <b>S. A. Levy</b>, K. M. Carlson, T. A. Gardner, J. Godar, J. Clapp, P. Dauvergne, et al'
