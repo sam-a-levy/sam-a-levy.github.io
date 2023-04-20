@@ -38,27 +38,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Skills
-======
-* Quantiative research methods
-  * Panel regressions
-  * Difference-in-Differences
-  * Network analysis
-* Qualitative & field methods
-  * Process-tracing
-  * Household survey execution
-  * Semi-structured interviews
-* Statistical computing, Programming & Geospatial analysis
-  * R studio (advanced)
-  * Python (intermediate)
-  * ArcGIS (advanced)
-  * QGIS (advanced)
-  * Google Earth Engine (intermediate)
-  * Open Data Kit (advanced)
-* Languages
-  * English (native)
-  * Portuguese (advanced) 
-
 Awards
 ======
 * 2022 **Postdoctoral Travel Grant**, New York University, USA (USD 700)
@@ -80,10 +59,31 @@ Teaching
   <ul>{% for post in site.teaching reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+ 
 Media Appearances
 ======
 * 2022 **Mongabay** [Pay or punish? Study looks at how to engage with farmers deforesting the Cerrdao](https://news.mongabay.com/2022/02/pay-or-punish-study-looks-at-how-to-engage-with-farmers-deforesting-the-cerrado/)
 * 2021 **Swissinfo** [Why is the Amazon still at risk despite ‘zero deforestation’ commitments?](https://www.swissinfo.ch/eng/why-is-the-amazon-still-at-risk-despite--zero-deforestation--commitments-/46314800)
 * 2023 **Bloomberg** [Ending Deforestation Likely to Cost at Least $130 Billion a Year](https://www.bloomberg.com/news/articles/2023-04-18/ending-deforestation-likely-to-cost-at-least-130-billion-a-year)
 * 2023 **Cambridge University news** [Companies’ zero-deforestation commitments have potential to halve cattle-driven deforestation in Brazilian Amazon](https://www.cam.ac.uk/research/news/zero-deforestation-commitments-have-potential-to-halve-cattle-driven-deforestation)
+ 
+Skills
+======
+* Quantiative research methods
+  * Panel regressions
+  * Difference-in-Differences
+  * Network analysis
+* Qualitative & field methods
+  * Process-tracing
+  * Household survey execution
+  * Semi-structured interviews
+* Statistical computing, Programming & Geospatial analysis
+  * R studio (advanced)
+  * Python (intermediate)
+  * ArcGIS (advanced)
+  * QGIS (advanced)
+  * Google Earth Engine (intermediate)
+  * Open Data Kit (advanced)
+* Languages
+  * English (native)
+  * Portuguese (advanced)   
