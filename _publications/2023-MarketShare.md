@@ -1,5 +1,5 @@
 ---
-title: "SDeforestation in the Brazilian Amazon could be halved by scaling up the implementation of zero-deforestation cattle commitments"
+title: "Deforestation in the Brazilian Amazon could be halved by scaling up the implementation of zero-deforestation cattle commitments"
 collection: publications
 permalink: /publication/2023-MarketShare
 Authors: '<b>S.A. Levy</b>, F. Cammelli, J. Munger, H. K. Gibbs, R.D. Garrett'
