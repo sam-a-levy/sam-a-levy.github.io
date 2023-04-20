@@ -65,7 +65,7 @@ Media Appearances
 * 2022 **Mongabay** [Pay or punish? Study looks at how to engage with farmers deforesting the Cerrdao](https://news.mongabay.com/2022/02/pay-or-punish-study-looks-at-how-to-engage-with-farmers-deforesting-the-cerrado/)
 * 2021 **Swissinfo** [Why is the Amazon still at risk despite ‘zero deforestation’ commitments?](https://www.swissinfo.ch/eng/why-is-the-amazon-still-at-risk-despite--zero-deforestation--commitments-/46314800)
 * 2023 **Bloomberg** [Ending Deforestation Likely to Cost at Least $130 Billion a Year](https://www.bloomberg.com/news/articles/2023-04-18/ending-deforestation-likely-to-cost-at-least-130-billion-a-year) - syndicated to [Yahoo News](https://news.yahoo.com/ending-deforestation-likely-cost-least-230235405.html)
-* 2023 **Cambridge University news** [Companies’ zero-deforestation commitments have potential to halve cattle-driven deforestation in Brazilian Amazon](https://www.cam.ac.uk/research/news/zero-deforestation-commitments-have-potential-to-halve-cattle-driven-deforestation)
+* 2023 **Cambridge University news** [Companies’ zero-deforestation commitments have potential to halve cattle-driven deforestation in Brazilian Amazon](https://www.cam.ac.uk/research/news/zero-deforestation-commitments-have-potential-to-halve-cattle-driven-deforestation) - syndicated to [phys.org](https://phys.org/news/2023-04-companies-zero-deforestation-commitments-potential-halve.html)
  
 Skills
 ======
