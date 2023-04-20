@@ -32,6 +32,12 @@ Professional Experience
 * 2013-2017: **Forestry Commission** - Project Manager, Forest health survey
 * 2009-2014: **Coombe Forestry Ltd.** - Sustainable Forester
   
+Publications
+======
+  <ul>{% for post in site.publications reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 * Quantiative research methods
@@ -62,12 +68,7 @@ Awards
 * 2016 **Oriel College Travel Award**, University of Oxford, UK
 * 2014 **Ernest and Carmen Frankl Memorial Award**, University of Cambridge , UK
 
-Publications
-======
-  <ul>{% for post in site.publications reversed%}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+ 
 Talks
 ======
   <ul>{% for post in site.talks reversed%}
@@ -84,4 +85,5 @@ Media Appearances
 ======
 * 2022 **Mongabay** [Pay or punish? Study looks at how to engage with farmers deforesting the Cerrdao](https://news.mongabay.com/2022/02/pay-or-punish-study-looks-at-how-to-engage-with-farmers-deforesting-the-cerrado/)
 * 2021 **Swissinfo** [Why is the Amazon still at risk despite ‘zero deforestation’ commitments?](https://www.swissinfo.ch/eng/why-is-the-amazon-still-at-risk-despite--zero-deforestation--commitments-/46314800)
- 
+* 2023 **Bloomberg** [Ending Deforestation Likely to Cost at Least $130 Billion a Year](https://www.bloomberg.com/news/articles/2023-04-18/ending-deforestation-likely-to-cost-at-least-130-billion-a-year)
+* 2023 **Cambridge University news** [Companies’ zero-deforestation commitments have potential to halve cattle-driven deforestation in Brazilian Amazon](https://www.cam.ac.uk/research/news/zero-deforestation-commitments-have-potential-to-halve-cattle-driven-deforestation)
