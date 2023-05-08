@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -17,6 +18,25 @@
   <lastmod>2023-04-28T08:57:59+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
+<url>
+  <loc>https://sam-a-levy.com/publications/</loc>
+  <lastmod>2023-04-28T08:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sam-a-levy.com/teaching/</loc>
+  <lastmod>2023-04-28T08:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sam-a-levy.com/year-archive/</loc>
+  <lastmod>2023-04-28T08:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sam-a-levy.com/cv/</loc>
+  <lastmod>2023-04-28T08:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
 </urlset>
