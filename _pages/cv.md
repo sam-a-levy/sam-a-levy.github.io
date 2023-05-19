@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Click here for a PDF version of my CV](https://sam-a-levy.github.io/files/1_Levy_CV_2023-01-17.pdf) (Updated 01/17/2023)
+[Click here for a PDF version of my CV](https://sam-a-levy.github.io/files/S Levy - CV.pdf) (Updated 05/19/2023)
 
 {% include base_path %}
 
