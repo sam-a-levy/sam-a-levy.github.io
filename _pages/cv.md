@@ -28,7 +28,7 @@ Professional Experience
 ======
 * 2017: **Global Canopy** - Research Intern (Supply Chains)
 * 2016-2017: **Proforest** - Environmental Consultant
-* 2016: **University of Oxford** - Research Assistant
+* 2016: **University of Oxford** - Research Assistant, Oxford Ecosystems Lab
 * 2013-2017: **Forestry Commission** - Project Manager, Forest health survey
 * 2009-2014: **Coombe Forestry Ltd.** - Sustainable Forester
   
