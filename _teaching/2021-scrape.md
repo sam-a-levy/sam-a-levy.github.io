@@ -1,5 +1,5 @@
 ---
-title: "How to scrape a website"
+title: "Workshop instructor - How to scrape a website"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2021-scrape
