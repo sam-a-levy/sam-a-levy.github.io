@@ -62,6 +62,7 @@ Teaching
  
 Media Appearances
 ======
+* 2023 **Sentient Media** [The Month in a Minute: April 2023](https://sentientmedia.org/the-month-in-a-minute-april-2023/)
 * 2023 **Mongabay** [A Twitter bot tracks meat production in the Brazilian Amazon](https://news.mongabay.com/2023/05/a-twitter-bot-tracks-meat-production-in-the-brazilian-amazon/)
 * 2023 **Anthropocene Magazine** [Do zero-deforestation commitments by the world’s largest slaughterhouses work? Actually, yes.](https://www.anthropocenemagazine.org/2023/04/do-zero-deforestation-pledges-by-the-worlds-largest-slaughterhouses-work-actually-yes/)
 * 2023 **Bloomberg** [Ending Deforestation Likely to Cost at Least $130 Billion a Year](https://www.bloomberg.com/news/articles/2023-04-18/ending-deforestation-likely-to-cost-at-least-130-billion-a-year) - syndicated to [Yahoo News](https://news.yahoo.com/ending-deforestation-likely-cost-least-230235405.html)
