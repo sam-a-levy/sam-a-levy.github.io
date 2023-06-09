@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Sam A Levy"
-excerpt: "About Sam A Levy"
+title: "About Sam A. Levy"
+excerpt: "Sam A. Levy, Postdoc at NYU"
 author_profile: true
 redirect_from: 
   - /about/
