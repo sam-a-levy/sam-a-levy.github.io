@@ -11,7 +11,7 @@ title                    : "Sam A. Levy"
 title_separator          : "-"
 name                     : &name "Sam A. Levy"
 description              : &description "Sustainable land use researcher"
-url                      : https://sam-a-levy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sam-a-levy.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sam-a-levy/sam-a-levy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sam A Levy"
+  name             : "Sam A. Levy"
   avatar           : "sam_pic_close.png"
   bio              : "Postdoctoral researcher at <a style='color: black;' href='http://nyu.edu'>New York University</a> and interdisciplinary land system scientist"
   location         : "New York, USA"
