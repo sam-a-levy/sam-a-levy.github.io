@@ -21,11 +21,12 @@ Education
 
 Institutional Appointments
 ======
-* 2022-current: **New York University** - Postdoctoral Researcher
+* 2022-2023: **New York University** - Postdoctoral Researcher
   * Advisor: Prof. Kimberly Carlson
 
 Professional Experience
 ======
+* 2023-current: **Accountability Framework initative/Rainforest Alliance** - Science & Policy Fellow
 * 2017: **Global Canopy** - Research Intern (Supply Chains)
 * 2016-2017: **Proforest** - Environmental Consultant
 * 2016: **University of Oxford** - Research Assistant, Oxford Ecosystems Lab
