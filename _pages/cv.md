@@ -19,19 +19,30 @@ Education
 * MSc in Environmental Change & Management, **University of Oxford**, 2016
 * BA in Social Anthropology, **University of Cambridge**, 2014
 
-Institutional Appointments
-======
-* 2022-2023: **New York University** - Postdoctoral Researcher
-  * Advisor: Prof. Kimberly Carlson
-
 Professional Experience
 ======
 * 2023-current: **Accountability Framework initative/Rainforest Alliance** - Science & Policy Fellow
+  * Leading and supporting the Accountability Framework initiative's work on defining, assessing, and analysing non forest natural ecosystems and their conversion for commodity production.
+  * Responsibilities include: contributing to scientific analyses, collaborating with AFi partners and experts, and assisting AFi strategy, stakeholder engagement, and product development. 
+* 2022-2023: **New York University** - Postdoctoral Researcher, Agricultural Land Systems Group
+  *  Led project investigating the conservation impacts of Indigenous Lands in Indonesia and assisted in teaching, advising and grading in the department of environmental studies, NYU.
+  *  Responsibilities included: designing the project research agenda, applying for federal and university grants, advising students, and lecturing to bachelors students in the department.
 * 2017: **Global Canopy** - Research Intern (Supply Chains)
+  * Conducted research into the commodity-driven tropical deforestation on a number of initiatives including the Forest 500 and Trase.
+  * Responsibilities included: data analysis using QGIS and R, report writing and desk-based research.
 * 2016-2017: **Proforest** - Environmental Consultant
+  * Worked with corporate clients in the paper, palm oil and soy sectorsto help achieve sustainable and equitable procurement of commodities and help improve supply chain management.
+  * Responsibilities included: Auditing sustainability reporting amongst suppliers for a major multinational consumer goods company, report writing
+and data analysis.
 * 2016: **University of Oxford** - Research Assistant, Oxford Ecosystems Lab
+  * Conducted and supported analyses of the effects of El Niño on carbon cycling in tropical forests
+  * Responsibilities included: processing climate and geospatial data, planning and conducting research
 * 2013-2017: **Forestry Commission** - Project Manager, Forest health survey
+  * Carried out Forestry Commission tree health field surveys, primarily for oak processionary moth caterpillars,contracted through Acres Wild Woodlands Ltd. throughout London, as the leader of a team of 11.
+  * Responsibilities included: managing/coordinating the surveying for SW London, working closely with both public and private landowners, Checking and analysing data recorded by team, leading design of training materials, and conducting training of over 50 members of personnel.
 * 2009-2014: **Coombe Forestry Ltd.** - Sustainable Forester
+  * Worked part-time for a sustainable woodland company helping to manage FSC woodlands and produce sustainable products from them.
+  * Responsibilities included: producing sustainable firewood and charcoal; assisting tree felling and engaging with members of the public at large events.
   
 Publications
 ======
