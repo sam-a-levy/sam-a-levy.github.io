@@ -1,5 +1,5 @@
 ---
-title: "The challenge of commodity-centric governance in sacrifice frontiers. Evidence from the Brazilian Cerrado's soy sector"
+title: "The challenge of commodity-centric governance in sacrifice frontiers: Evidence from the Brazilian Cerrado's soy sector"
 collection: publications
 permalink: /publication/2024-SacFrontier
 Authors: '<b>S.A. Levy</b>, A.V. Nogueira Garik, R.D. Garrett'
