@@ -52,7 +52,8 @@ Publications
 
 Awards
 ======
-* 2023 [**SFIAR Award**](https://sfiar.ch/sfiar-activities/sfiar-award/sfiar-award-2023/), Swiss Forum for International Agricultural Research, Switzerland (CHF 10,000)
+* 2024 [**Research Featured on list of High Impact UK Research**](https://publishingsupport.iopscience.iop.org/questions/celebrating-jisc-uk-research/)
+* 2023 [**SFIAR Award**](https://sfiar.ch/sfiar-activities/sfiar-award/sfiar-award-2023/), Swiss Forum for International Agricultural Research, Switzerland (CHF 10,000), Jisc, United Kingdom
 * 2022 **Postdoctoral Travel Grant**, New York University, USA (USD 700)
 * 2021 [**International Geneva Award**](https://snis.ch/awards/designing-effective-and-equitable-zero-deforestation-supply-chain-policies/), Swiss Network for International Studies, Switzerland (CHF 5,000)
 * 2020 **Global Young Scientists Summit delegate**, National Research Foundation, Singapore
