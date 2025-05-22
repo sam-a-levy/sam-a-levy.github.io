@@ -21,7 +21,10 @@ Education
 
 Professional Experience
 ======
-* 2023-current: **Accountability Framework initative/Rainforest Alliance** - Science & Policy Fellow
+*2025-current **Accountability Framework initative/Rainforest Alliance** - Science & Policy Specialist
+  * Leading and supporting several workstreams within the Accountability Framework initiative, including related to improving AFi's guidance related to non-forest ecosystems; examining and improving AFi's theory of change work, and leading AFi's South America strategy.
+  * Responsibilities include: conducting and contributing to scientific analyses, collaborating with AFi partners and experts, assisting AFi strategy, managing contractors, representing AFi at key events, stakeholder engagement, and product development. 
+* 2023-2025: **Accountability Framework initative/Rainforest Alliance** - Science & Policy Fellow
   * Leading and supporting the Accountability Framework initiative's work on defining, assessing, and analysing non forest natural ecosystems and their conversion for commodity production.
   * Responsibilities include: contributing to scientific analyses, collaborating with AFi partners and experts, and assisting AFi strategy, stakeholder engagement, and product development. 
 * 2022-2023: **New York University** - Postdoctoral Researcher, Agricultural Land Systems Group
