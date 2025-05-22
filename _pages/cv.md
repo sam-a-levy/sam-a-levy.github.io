@@ -21,7 +21,7 @@ Education
 
 Professional Experience
 ======
-*2025-current **Accountability Framework initative/Rainforest Alliance** - Science & Policy Specialist
+* 2025-current **Accountability Framework initative/Rainforest Alliance** - Science & Policy Specialist
   * Leading and supporting several workstreams within the Accountability Framework initiative, including related to improving AFi's guidance related to non-forest ecosystems; examining and improving AFi's theory of change work, and leading AFi's South America strategy.
   * Responsibilities include: conducting and contributing to scientific analyses, collaborating with AFi partners and experts, assisting AFi strategy, managing contractors, representing AFi at key events, stakeholder engagement, and product development. 
 * 2023-2025: **Accountability Framework initative/Rainforest Alliance** - Science & Policy Fellow
