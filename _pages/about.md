@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Science & Policy Specialist at the [Accountability Framework initiative](https://accountability-framework.org/) and [Rainforest Alliance](https://www.rainforest-alliance.org/). 
+I am a Senior Scientist at the [Accountability Framework initiative](https://accountability-framework.org/) and [Rainforest Alliance](https://www.rainforest-alliance.org/). 
 
 In my current role, I lead and support the Accountability Framework initiative's workstreams related to improved supply chain policies in non-forest ecosystems, improving the supply chain theory of change, and lead on our South America strategy. My role requires me to conduct research, engage partners and key stakeholders across the globe, as well as communicate project findings in forms varying from academic publications to short-form blogs and presentations.  
 
