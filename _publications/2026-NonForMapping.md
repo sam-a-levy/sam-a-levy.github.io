@@ -2,9 +2,9 @@
 title: "Identifying global hotspots of agricultural expansion into non-forest ecosystems"
 collection: publications
 permalink: /publication/2026-NonForMapping
-Authors: 'S. Kan, J. Meng, B. Chen, <b>S.A. Levy</b>, E. Mazur, L. Samberg, G. Chen, H. Zheng, T. Kastner'
+Authors: 'S. Kan, <b>S.A. Levy</b>, E. Mazur, L. Samberg, U.M. Persson, L. Sloat, A.L. Reboredo Segovia, T. Kastner'
 date: 2025-11-28
-venue: 'Proceedings of the National Academy of Sciences Communications'
+venue: 'Proceedings of the National Academy of Sciences'
 paperurl: 'https://www.pnas.org/doi/10.1073/pnas.2521183123'
 citation: 'S. Kan, <b>S.A. Levy</b>, E. Mazur, L. Samberg, U.M. Persson, L. Sloat, A.L. Reboredo Segovia, T. Kastner (2025). &quot;Overlooked and overexploited: Extensive conversion of grasslands and wetlands driven by global food, feed, and bioenergy demand.&quot; <i>PNAS</i>.'
 ---
