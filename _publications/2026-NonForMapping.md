@@ -1,5 +1,5 @@
 ---
-title: "Identifying global hotspots of agricultural expansion into non-forest ecosystems"
+title: "Overlooked and overexploited: Extensive conversion of grasslands and wetlands driven by global food, feed, and bioenergy demand"
 collection: publications
 permalink: /publication/2026-NonForMapping
 Authors: 'S. Kan, <b>S.A. Levy</b>, E. Mazur, L. Samberg, U.M. Persson, L. Sloat, A.L. Reboredo Segovia, T. Kastner'
