@@ -65,8 +65,6 @@ Awards
 * 2020 **Global Young Scientists Summit delegate**, National Research Foundation, Singapore
 * 2016 **Environmental Change Institute Research Award**, University of Oxford, UK
 * 2016 **Oriel College Travel Award**, University of Oxford, UK
-* 2014 **Ernest and Carmen Frankl Memorial Award**, University of Cambridge , UK
-
  
 Talks
 ======
